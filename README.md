@@ -64,7 +64,5 @@ job-application-tracker/
 
 
 
-## Future Improvements
-- Pagination for the applications table
-- Export applications to CSV
-- Dark mode
+## Author 
+- N Gamini Prasad
