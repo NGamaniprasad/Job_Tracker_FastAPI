@@ -60,7 +60,8 @@ job-application-tracker/
 - `DELETE /api/applications/{id}` - Delete application
 
 ## Screenshots
-*(Placeholder for future screenshots)*
+<img width="1920" height="1080" alt="Screenshot (286)" src="https://github.com/user-attachments/assets/ea8ea645-0711-40a2-838d-874074808410" />
+
 
 ## Future Improvements
 - Pagination for the applications table
